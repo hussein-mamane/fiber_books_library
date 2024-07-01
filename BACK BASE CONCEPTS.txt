@@ -1,0 +1,21 @@
+Json Send & Receive
+Routing
+Grouping for controllers & API versionning
+CORS
+Serve static files
+Headers Manipulation
+Models  & Database
+Basic Auth
+Session Storage
+CSRF
+
+JWT auth
+Logger
+Cache
+
+Race Conditions
+
+
+NOT important :
+url rewrite for api versionning
+Templating Engines
