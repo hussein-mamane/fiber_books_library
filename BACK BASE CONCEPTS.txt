@@ -1,6 +1,6 @@
 Json Send & Receive
 Routing
-Grouping for controllers & API versionning
+Grouping for controllers & API versionning, fiber.Router
 CORS
 Serve static files
 Headers Manipulation
